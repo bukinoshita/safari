@@ -1,0 +1,35 @@
+{
+  "commit": "5b9531439a15a8e8d2e29be292655447768783db",
+  "pagesAndArtboards": {
+    "40048CFE-536D-486A-AD4B-27A8328A86BA": {
+      "name": "Page 1",
+      "artboards": {}
+    },
+    "34ECBB42-597F-42C7-BB37-9BC9DA9EF818": {
+      "name": "Symbols",
+      "artboards": {
+        "897BFD24-2DE6-4F57-98B1-005BAB0857E7": {
+          "name": "Safari Browser"
+        }
+      }
+    }
+  },
+  "version": 97,
+  "fonts": ["SFUIText-Light", "SFUIText-Medium"],
+  "compatibilityVersion": 93,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "5b9531439a15a8e8d2e29be292655447768783db",
+    "appVersion": "48.1",
+    "build": 47250,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 93,
+    "version": 97,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.47250"],
+  "appVersion": "48.1",
+  "build": 47250
+}

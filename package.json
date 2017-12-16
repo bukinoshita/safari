@@ -1,0 +1,16 @@
+{
+  "name": "safari",
+  "version": "1.0.0",
+  "description": "Safari Dark/Light theme for Sketch",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/safari.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "push": "sketch-json",
+    "pull": "sketch-json --json"
+  },
+  "devDependencies": {
+    "sketch-json-cli": "^0.0.2"
+  }
+}
