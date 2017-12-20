@@ -18,7 +18,7 @@
 * Install the dependencies `$ yarn`
 * Run `$ yarn pull` to transform the `json` files to `sketch`
 
-_It uses [sketch-json](https://github.com/bukinoshita/sketch-json-cli) to transform sketch files to json and json to sketch files and also for versioning the design.
+_It uses [sketch-json](https://github.com/bukinoshita/sketch-json-cli) to transform sketch files to json and json to sketch files and also for versioning the design._
 
 ## License
 
